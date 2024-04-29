@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @69RAGE42
+- 👑 Founder of @Auraz @Crown @Lotus
 - 👀 I’m interested in Computer Applications & Science, Website Development (especially Front-end), Game Development basically all about Software Developments.
 - 🌱 I’m currently making Projects based on Website Development & Game Development to level up my HTML, CSS & JS coding skills.
 - 💞️ I’m looking to collaborate on any kind support that can help me grow ♥
